@@ -1,0 +1,23 @@
+.error-404 {
+    text-align: center;
+}
+
+.error-404 h3, small {
+    font-size: 100px;
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.error-404 small {
+    font-size: 30px;
+}
+
+
+.error-link {
+    display: block;
+    margin: 10px auto !important;
+    text-decoration: none;
+    margin-top: 30px;
+    width: 40%;
+}
